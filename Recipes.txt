@@ -7,5 +7,9 @@ Kheer
 Pasta
 naan Paneer
 
+beans
+pizza
+lehsun
+
 
 Dhanyawaad mitro!
